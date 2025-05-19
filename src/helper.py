@@ -7,6 +7,7 @@ from langchain.memory import ConversationBufferMemory
 from transformers import pipeline
 from langchain.llms import HuggingFacePipeline
 
+
 def get_pdf_text(pdf_docs):
     text = ""
     for pdf in pdf_docs:
