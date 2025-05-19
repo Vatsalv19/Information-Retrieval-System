@@ -1,9 +1,11 @@
 python-dotenv
-google-generativeai
 langchain
-Pypdf2
+langchain-community
 faiss-cpu
 streamlit
-streamlit-chat 
--e .
-langchain-community
+streamlit-chat
+transformers
+torch
+PyPDF2
+sentence-transformers
+
