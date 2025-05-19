@@ -33,10 +33,8 @@ An interactive web app that allows users to upload PDF documents and ask questio
 
 ### Upload PDF and Ask Question
 
-![Upload PDFs and Ask](screenshots/upload_page.png)
+![Upload PDFs and Ask](assets/first.png)
 
-### Conversational Interface
 
-![Chat Interface](screenshots/chat_interface.png)
 
 
