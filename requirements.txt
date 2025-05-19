@@ -6,3 +6,4 @@ faiss-cpu
 streamlit
 streamlit-chat 
 -e .
+langchain-community
